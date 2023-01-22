@@ -4,6 +4,9 @@ public class Test {
         System.out.println("This is a git session ");
         System.out.println("This is a programming class");
 
+        System.out.println("I love java programming!!!!!");
+        System.out.println("I love java programming!!!!!");
+        System.out.println("I love java programming!!!!!");
 
 
 
